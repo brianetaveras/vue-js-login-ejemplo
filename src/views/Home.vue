@@ -2,7 +2,7 @@
   <div class="login-page">
     <div class="card">
 
-
+      FELIX ES EL MEJOR!
       <label for="email">Email</label>
       <input placeholder="example@example.com" v-model="email" class="login-input" type="email" name="email" id="email">
       
